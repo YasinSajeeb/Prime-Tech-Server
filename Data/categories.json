@@ -15,6 +15,22 @@
     {
         "id": "04",
         "name": "Content Writing"
+    },
+    {
+        "id": "05",
+        "name": "Python"
+    },
+    {
+        "id": "06",
+        "name": "Logo Design"
+    },
+    {
+        "id": "07",
+        "name": "Data Entry"
+    },
+    {
+        "id": "08",
+        "name": "Java"
     }
 
 ]
