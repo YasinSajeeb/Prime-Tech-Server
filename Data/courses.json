@@ -1,0 +1,67 @@
+[
+ {
+    "id" : "01",
+    "name": "Graphics Design",
+    "image": "https://res.cloudinary.com/dlgfhdxc4/image/upload/v1667790636/An-Introduction-To-Graphic-Design-Part-1_suurj9.jpg",
+    "price": "$74",
+    "totalDownload": 478,
+    "description": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts. Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports."
+ },
+ {
+    "id" : "02",
+    "name": "Web Development",
+    "image": "https://res.cloudinary.com/dlgfhdxc4/image/upload/v1667791933/WebDevelopmentImage_yllqol.jpg",
+    "price": "$78",
+    "totalDownload": 512,
+    "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
+ },
+ {
+    "id" : "03",
+    "name": "Digital Marketing",
+    "image": "https://res.cloudinary.com/dlgfhdxc4/image/upload/v1667792239/DIGITAL-MARKETING_fxxd9o.jpg",
+    "price": "$65",
+    "totalDownload": 450,
+    "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel. Essentially, if a marketing campaign involves digital communication, it's digital marketing."
+ },
+ {
+    "id" : "04",
+    "name": "Content Writing",
+    "image": "https://res.cloudinary.com/dlgfhdxc4/image/upload/v1667792428/Content-Writing-Tips-For-Beginners_w3hbnb.jpg",
+    "price": "$50",
+    "totalDownload": 375,
+    "description": "Image result for content writing. Content writing is the process of writing, editing, and publishing content in a digital format. That content can include blog posts, video or podcast scripts, ebooks or whitepapers, press releases, product category descriptions, landing page or social media copy and more. Some examples of content include blogs, emailers, newsletters, social media posts, case studies, and more."
+ },
+ {
+    "id" : "05",
+    "name": "Python",
+    "image": "https://res.cloudinary.com/dlgfhdxc4/image/upload/v1667792710/Python-Programming-Edureka_n8ljkr.jpg",
+    "price": "$85",
+    "totalDownload": 402,
+    "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming. Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
+ },
+ {
+    "id" : "06",
+    "name": "Logo Design",
+    "image": "https://res.cloudinary.com/dlgfhdxc4/image/upload/v1667793051/logo-design-1_pyff8j.jpg",
+    "price": "$30",
+    "totalDownload": 289,
+    "description": "Logo design is all about creating the perfect visual brand mark for a company. Depending on the type, a logo usually consists of a symbol or brandmark and a logotype, along with a tagline. A logo is a symbol made up of text and images that identifies a business. A good logo shows what a company does and what the brand values. Logo design is all about creating the perfect visual brand mark for a company."
+ },
+ {
+    "id" : "07",
+    "name": "Data Entry",
+    "image": "https://res.cloudinary.com/dlgfhdxc4/image/upload/v1667793446/data-entry_d0zuib.jpg",
+    "price": "$22",
+    "totalDownload": 264,
+    "description": "Data entry is the process of digitizing data by entering it into a computer system for organization and management purposes. Data entry is the input of data from various sources into a computer or system, often accomplished by a data entry clerk. A data entry specialist is required to efficiently manage large amounts of information that is sometimes confidential or sensitive in nature."
+ },
+ {
+    "id" : "08",
+    "name": "Java",
+    "image": "https://res.cloudinary.com/dlgfhdxc4/image/upload/v1667794041/cover_idstae.jpg",
+    "price": "$45",
+    "totalDownload": 269,
+    "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today's digital world, by providing the reliable platform upon which many services and applications are built."
+ }
+ 
+]
